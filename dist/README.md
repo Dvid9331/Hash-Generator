@@ -14,6 +14,7 @@ $cert = New-SelfSignedCertificate -Type CodeSigningCert -Subject "CN=YourName" -
 ```
 
 **2. Export the Certificate to a PFX File:**
+
 Run the following commands to export the certificate:
       
 ```powershell
@@ -22,6 +23,7 @@ Export-PfxCertificate -Cert "Cert:\CurrentUser\My\$($cert.Thumbprint)" -FilePath
 ```
 
 **3. Sign the Executable:**
+
 Locate `signtool.exe` in your Windows SDK installation directory, typically found in `C:\Program Files (x86)\Windows Kits\10\bin\<version>\x64`. or download from https://developer.microsoft.com/en-us/windows/downloads/windows-sdk/
 Run the following command to sign the executable:
 
@@ -33,6 +35,7 @@ Run the following command to sign the executable:
 
 
 **4. Verify the Signature:**
+
 You can verify the signature by running:
 
 ```powershell
