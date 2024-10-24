@@ -1,0 +1,560 @@
+Folder: C:/Users/sipos/TTTECH COMPUTERTECHNIK AG/TTTECH-2460-TTE-XMC-Pro - Documents/20_TestBench/Documents
+File: I2C_Interface_Description.docx - Shortcut.lnk
+Hash: 33aa0b8
+
+Folder: C:/Users/sipos/TTTECH COMPUTERTECHNIK AG/TTTECH-2460-TTE-XMC-Pro - Documents/20_TestBench/Documents
+File: I2C_Interface_Description_w_notes.docx
+Hash: 437aa38
+
+Folder: C:/Users/sipos/TTTECH COMPUTERTECHNIK AG/TTTECH-2460-TTE-XMC-Pro - Documents/20_TestBench/Documents
+File: NI_ports.xlsx
+Hash: 4118123
+
+Folder: C:/Users/sipos/TTTECH COMPUTERTECHNIK AG/TTTECH-2460-TTE-XMC-Pro - Documents/20_TestBench/Documents
+File: Test_Execution.docx
+Hash: d6f8bc4
+
+Folder: C:/Users/sipos/TTTECH COMPUTERTECHNIK AG/TTTECH-2460-TTE-XMC-Pro - Documents/20_TestBench/Documents
+File: XMC-Pro_ICT_Test_Adapter_V1.00-Master Design-sch.pdf - Shortcut.lnk
+Hash: d1a2093
+
+Folder: C:/Users/sipos/TTTECH COMPUTERTECHNIK AG/TTTECH-2460-TTE-XMC-Pro - Documents/20_TestBench/Documents
+File: XMC-Pro_V3.04_Testpoint_Needed_For_ICT-Test_Adapter_V1.04.xlsx - Shortcut.lnk
+Hash: 777e777
+
+Folder: C:/Users/sipos/TTTECH COMPUTERTECHNIK AG/TTTECH-2460-TTE-XMC-Pro - Documents/20_TestBench/Documents\API
+File: XMC_PRO_TB_TFW_API_v1.0.pdf
+Hash: bd77efc
+
+Folder: C:/Users/sipos/TTTECH COMPUTERTECHNIK AG/TTTECH-2460-TTE-XMC-Pro - Documents/20_TestBench/Documents\ChipVERD
+File: ChipVERD_D-TTE-ES-XMC-S-05-011_V0.2.0.pdf
+Hash: da4af4c
+
+Folder: C:/Users/sipos/TTTECH COMPUTERTECHNIK AG/TTTECH-2460-TTE-XMC-Pro - Documents/20_TestBench/Documents\ChipVERD
+File: ChipVERD_D-TTE-ES-XMC-S-05-011_V0.2.1.pdf
+Hash: 1e253c8
+
+Folder: C:/Users/sipos/TTTECH COMPUTERTECHNIK AG/TTTECH-2460-TTE-XMC-Pro - Documents/20_TestBench/Documents\ChipVERD
+File: ChipVERD_D-TTE-ES-XMC-S-05-011_V0.2.2.pdf
+Hash: 89839a2
+
+Folder: C:/Users/sipos/TTTECH COMPUTERTECHNIK AG/TTTECH-2460-TTE-XMC-Pro - Documents/20_TestBench/Documents\ChipVERD
+File: ChipVERD_D-TTE-ES-XMC-S-05-011_V0.2.3.pdf
+Hash: 19054c4
+
+Folder: C:/Users/sipos/TTTECH COMPUTERTECHNIK AG/TTTECH-2460-TTE-XMC-Pro - Documents/20_TestBench/Documents\ChipVERD
+File: ChipVERD_D-XX_0.0.1_2023_07_19.pdf
+Hash: 6f39095
+
+Folder: C:/Users/sipos/TTTECH COMPUTERTECHNIK AG/TTTECH-2460-TTE-XMC-Pro - Documents/20_TestBench/Documents\ChipVERD
+File: ChipVERD_D-XX_0.1.0_2023_10_11.pdf
+Hash: b26c619
+
+Folder: C:/Users/sipos/TTTECH COMPUTERTECHNIK AG/TTTECH-2460-TTE-XMC-Pro - Documents/20_TestBench/Documents\CIDL
+File: CIDL-D-TTE-ES-XMC-LI-05-001_V0.0.1.docx
+Hash: 84f846f
+
+Folder: C:/Users/sipos/TTTECH COMPUTERTECHNIK AG/TTTECH-2460-TTE-XMC-Pro - Documents/20_TestBench/Documents\Compliance Matrix
+File: SyVES_SyVERD_Compliance Matrix V1.0.0.xlsx
+Hash: 0d0c1a2
+
+Folder: C:/Users/sipos/TTTECH COMPUTERTECHNIK AG/TTTECH-2460-TTE-XMC-Pro - Documents/20_TestBench/Documents\MiscDocLib\Calibration_Certificates
+File: 2023-03-09 Certificate HW-INV-0056.pdf
+Hash: 29b2a8b
+
+Folder: C:/Users/sipos/TTTECH COMPUTERTECHNIK AG/TTTECH-2460-TTE-XMC-Pro - Documents/20_TestBench/Documents\MiscDocLib\Calibration_Certificates
+File: 2023-03-30 Certificate HW-INV-0675.pdf
+Hash: 05bb59b
+
+Folder: C:/Users/sipos/TTTECH COMPUTERTECHNIK AG/TTTECH-2460-TTE-XMC-Pro - Documents/20_TestBench/Documents\MiscDocLib\Calibration_Certificates
+File: 2023-05-26 Certificate HW-INV-0050.pdf
+Hash: d401cf3
+
+Folder: C:/Users/sipos/TTTECH COMPUTERTECHNIK AG/TTTECH-2460-TTE-XMC-Pro - Documents/20_TestBench/Documents\MiscDocLib\Calibration_Certificates
+File: Allegro_Calibration_Verification.pdf
+Hash: 47ed729
+
+Folder: C:/Users/sipos/TTTECH COMPUTERTECHNIK AG/TTTECH-2460-TTE-XMC-Pro - Documents/20_TestBench/Documents\MiscDocLib\Calibration_Certificates
+File: AUKUA_Calibration_Verification.pdf
+Hash: 21a2cfd
+
+Folder: C:/Users/sipos/TTTECH COMPUTERTECHNIK AG/TTTECH-2460-TTE-XMC-Pro - Documents/20_TestBench/Documents\MiscDocLib\Calibration_Certificates
+File: Calibration Certificate_PXIe-4113 32AD432.pdf
+Hash: f16b1ba
+
+Folder: C:/Users/sipos/TTTECH COMPUTERTECHNIK AG/TTTECH-2460-TTE-XMC-Pro - Documents/20_TestBench/Documents\MiscDocLib\Calibration_Certificates
+File: Calibration Certificate_PXIe-6738 2203985.pdf
+Hash: eba891f
+
+Folder: C:/Users/sipos/TTTECH COMPUTERTECHNIK AG/TTTECH-2460-TTE-XMC-Pro - Documents/20_TestBench/Documents\MiscDocLib\Calibration_Certificates
+File: LogicAnalyzer_Calibration_Verification.pdf
+Hash: a1a56da
+
+Folder: C:/Users/sipos/TTTECH COMPUTERTECHNIK AG/TTTECH-2460-TTE-XMC-Pro - Documents/20_TestBench/Documents\MiscDocLib\Datasheets\Flash Memory
+File: mt25q_qljs_u_256_aba_0.pdf
+Hash: 8252965
+
+Folder: C:/Users/sipos/TTTECH COMPUTERTECHNIK AG/TTTECH-2460-TTE-XMC-Pro - Documents/20_TestBench/Documents\MiscDocLib\Datasheets\FT4222 USB2.0 to QSPI Bridge IC
+File: FT4222H_Datasheet.pdf
+Hash: d109323
+
+Folder: C:/Users/sipos/TTTECH COMPUTERTECHNIK AG/TTTECH-2460-TTE-XMC-Pro - Documents/20_TestBench/Documents\MiscDocLib\Datasheets\FT4232 USB to Multipurpose UART-MPSSE IC
+File: FT4232H_Datasheet.pdf
+Hash: 19462d3
+
+Folder: C:/Users/sipos/TTTECH COMPUTERTECHNIK AG/TTTECH-2460-TTE-XMC-Pro - Documents/20_TestBench/Documents\MiscDocLib\Datasheets\Level shifter
+File: BSS138-D.PDF
+Hash: 53346f7
+
+Folder: C:/Users/sipos/TTTECH COMPUTERTECHNIK AG/TTTECH-2460-TTE-XMC-Pro - Documents/20_TestBench/Documents\MiscDocLib\Datasheets\Level shifter
+File: SN74LVC1T45.pdf
+Hash: 7c97f01
+
+Folder: C:/Users/sipos/TTTECH COMPUTERTECHNIK AG/TTTECH-2460-TTE-XMC-Pro - Documents/20_TestBench/Documents\MiscDocLib\Datasheets\Pico
+File: Pico Technology USB TC-08 Datasheet.pdf
+Hash: 1f56cfa
+
+Folder: C:/Users/sipos/TTTECH COMPUTERTECHNIK AG/TTTECH-2460-TTE-XMC-Pro - Documents/20_TestBench/Documents\MiscDocLib\Datasheets\Power Resistor Heater
+File: BRS.pdf
+Hash: c2a9472
+
+Folder: C:/Users/sipos/TTTECH COMPUTERTECHNIK AG/TTTECH-2460-TTE-XMC-Pro - Documents/20_TestBench/Documents\MiscDocLib\Datasheets\SiT3521 Oscillator
+File: SiT3521-datasheet.pdf
+Hash: 7c3042d
+
+Folder: C:/Users/sipos/TTTECH COMPUTERTECHNIK AG/TTTECH-2460-TTE-XMC-Pro - Documents/20_TestBench/Documents\MiscDocLib\Datasheets\SN74LVC8T245 Bus Transceiver
+File: SN74LVC8T245 Datasheet.pdf
+Hash: d910bfa
+
+Folder: C:/Users/sipos/TTTECH COMPUTERTECHNIK AG/TTTECH-2460-TTE-XMC-Pro - Documents/20_TestBench/Documents\MiscDocLib\Datasheets\TCA9539Q IO Expander
+File: TCA9539Q Datasheet.pdf
+Hash: 3a7411e
+
+Folder: C:/Users/sipos/TTTECH COMPUTERTECHNIK AG/TTTECH-2460-TTE-XMC-Pro - Documents/20_TestBench/Documents\MiscDocLib\Datasheets\TPS74801 Low-Dropout Linear Regulator
+File: TPS74801 Datasheet.pdf
+Hash: ce49d7e
+
+Folder: C:/Users/sipos/TTTECH COMPUTERTECHNIK AG/TTTECH-2460-TTE-XMC-Pro - Documents/20_TestBench/Documents\MiscDocLib\Documents\Allegro\Calibration
+File: Allegro_Measurements.xlsx
+Hash: 1498754
+
+Folder: C:/Users/sipos/TTTECH COMPUTERTECHNIK AG/TTTECH-2460-TTE-XMC-Pro - Documents/20_TestBench/Documents\MiscDocLib\Documents\Allegro\Calibration
+File: pcap_files.zip
+Hash: 18fc64e
+
+Folder: C:/Users/sipos/TTTECH COMPUTERTECHNIK AG/TTTECH-2460-TTE-XMC-Pro - Documents/20_TestBench/Documents\MiscDocLib\Documents\AUKUA
+File: AukuaNetworkEmulatorPB_01019A_2P.pdf
+Hash: 81a20af
+
+Folder: C:/Users/sipos/TTTECH COMPUTERTECHNIK AG/TTTECH-2460-TTE-XMC-Pro - Documents/20_TestBench/Documents\MiscDocLib\Documents\AUKUA\Calibration
+File: Aukua_Measurements.xlsx
+Hash: e8afa38
+
+Folder: C:/Users/sipos/TTTECH COMPUTERTECHNIK AG/TTTECH-2460-TTE-XMC-Pro - Documents/20_TestBench/Documents\MiscDocLib\Documents\AUKUA\Calibration
+File: pcap_files.zip
+Hash: e4394ae
+
+Folder: C:/Users/sipos/TTTECH COMPUTERTECHNIK AG/TTTECH-2460-TTE-XMC-Pro - Documents/20_TestBench/Documents\MiscDocLib\Documents\AUKUA\Calibration
+File: Test1.1.jpg
+Hash: 86667c2
+
+Folder: C:/Users/sipos/TTTECH COMPUTERTECHNIK AG/TTTECH-2460-TTE-XMC-Pro - Documents/20_TestBench/Documents\MiscDocLib\Documents\AUKUA\Calibration
+File: Test1.2.jpg
+Hash: 689a952
+
+Folder: C:/Users/sipos/TTTECH COMPUTERTECHNIK AG/TTTECH-2460-TTE-XMC-Pro - Documents/20_TestBench/Documents\MiscDocLib\Documents\AUKUA\Calibration
+File: Test1.3.jpg
+Hash: 3477a89
+
+Folder: C:/Users/sipos/TTTECH COMPUTERTECHNIK AG/TTTECH-2460-TTE-XMC-Pro - Documents/20_TestBench/Documents\MiscDocLib\Documents\AUKUA\Calibration
+File: Test1.4.jpg
+Hash: b2691b9
+
+Folder: C:/Users/sipos/TTTECH COMPUTERTECHNIK AG/TTTECH-2460-TTE-XMC-Pro - Documents/20_TestBench/Documents\MiscDocLib\Documents\AUKUA\Calibration
+File: Test1.5.jpg
+Hash: 4ba640c
+
+Folder: C:/Users/sipos/TTTECH COMPUTERTECHNIK AG/TTTECH-2460-TTE-XMC-Pro - Documents/20_TestBench/Documents\MiscDocLib\Documents\AUKUA\Calibration
+File: Test2.1.png
+Hash: 6548c67
+
+Folder: C:/Users/sipos/TTTECH COMPUTERTECHNIK AG/TTTECH-2460-TTE-XMC-Pro - Documents/20_TestBench/Documents\MiscDocLib\Documents\AUKUA\Calibration
+File: Test2.2.png
+Hash: 6a0d93c
+
+Folder: C:/Users/sipos/TTTECH COMPUTERTECHNIK AG/TTTECH-2460-TTE-XMC-Pro - Documents/20_TestBench/Documents\MiscDocLib\Documents\AUKUA\Calibration
+File: Test5.1_2_3.png
+Hash: 278f355
+
+Folder: C:/Users/sipos/TTTECH COMPUTERTECHNIK AG/TTTECH-2460-TTE-XMC-Pro - Documents/20_TestBench/Documents\MiscDocLib\Documents\AUKUA\Calibration
+File: Test5.4_5_6.png
+Hash: 4357940
+
+Folder: C:/Users/sipos/TTTECH COMPUTERTECHNIK AG/TTTECH-2460-TTE-XMC-Pro - Documents/20_TestBench/Documents\MiscDocLib\Documents\ICT-Test-Adapter_Board
+File: I2C_Interface_Description.docx
+Hash: e62ff1c
+
+Folder: C:/Users/sipos/TTTECH COMPUTERTECHNIK AG/TTTECH-2460-TTE-XMC-Pro - Documents/20_TestBench/Documents\MiscDocLib\Documents\ICT-Test-Adapter_Board
+File: Injection-R_Instruction_D-TTE-ES-XMC-I-02-010_V1.01.00.pdf
+Hash: c9a4670
+
+Folder: C:/Users/sipos/TTTECH COMPUTERTECHNIK AG/TTTECH-2460-TTE-XMC-Pro - Documents/20_TestBench/Documents\MiscDocLib\Documents\Saleae
+File: LA_Measurement.xlsx
+Hash: 149f224
+
+Folder: C:/Users/sipos/TTTECH COMPUTERTECHNIK AG/TTTECH-2460-TTE-XMC-Pro - Documents/20_TestBench/Documents\MiscDocLib\Documents\Thermocouple
+File: Thermocouple Tolerances.pdf
+Hash: 96dc5ba
+
+Folder: C:/Users/sipos/TTTECH COMPUTERTECHNIK AG/TTTECH-2460-TTE-XMC-Pro - Documents/20_TestBench/Documents\MiscDocLib\Documents\XMC- BoN Adapter
+File: 22120138-B00 (Doku).EASM
+Hash: 85cd495
+
+Folder: C:/Users/sipos/TTTECH COMPUTERTECHNIK AG/TTTECH-2460-TTE-XMC-Pro - Documents/20_TestBench/Documents\MiscDocLib\Documents\XMC- BoN Adapter
+File: 22120138-B01 (Doku).EASM
+Hash: 1fd306a
+
+Folder: C:/Users/sipos/TTTECH COMPUTERTECHNIK AG/TTTECH-2460-TTE-XMC-Pro - Documents/20_TestBench/Documents\MiscDocLib\Documents\XMC- BoN Adapter
+File: 22120138_NAF-T mit Testadapter.dwg
+Hash: 2114da2
+
+Folder: C:/Users/sipos/TTTECH COMPUTERTECHNIK AG/TTTECH-2460-TTE-XMC-Pro - Documents/20_TestBench/Documents\MiscDocLib\Documents\XMC- BoN Adapter
+File: Nadeletikett_22120138.pdf
+Hash: fd1ef92
+
+Folder: C:/Users/sipos/TTTECH COMPUTERTECHNIK AG/TTTECH-2460-TTE-XMC-Pro - Documents/20_TestBench/Documents\MiscDocLib\Documents\XMC- BoN Adapter
+File: probe list_22120138.pdf
+Hash: eb5fa0a
+
+Folder: C:/Users/sipos/TTTECH COMPUTERTECHNIK AG/TTTECH-2460-TTE-XMC-Pro - Documents/20_TestBench/Documents\MiscDocLib\Documents\XMC-Pro
+File: XILINX ZYNC XCZU4CG-1FBVB900I.pdf
+Hash: 9fdfc2e
+
+Folder: C:/Users/sipos/TTTECH COMPUTERTECHNIK AG/TTTECH-2460-TTE-XMC-Pro - Documents/20_TestBench/Documents\MiscDocLib\Documents\XMC-Pro
+File: XMC-Pro-HRTR_D-TTE-ES-XMC-S-02-018_V1.03.pdf
+Hash: 66fa607
+
+Folder: C:/Users/sipos/TTTECH COMPUTERTECHNIK AG/TTTECH-2460-TTE-XMC-Pro - Documents/20_TestBench/Documents\MiscDocLib\Manuals\Aukua
+File: aukuamanual.zip
+Hash: 5b9581b
+
+Folder: C:/Users/sipos/TTTECH COMPUTERTECHNIK AG/TTTECH-2460-TTE-XMC-Pro - Documents/20_TestBench/Documents\MiscDocLib\Manuals\Aukua
+File: Aukua_UserDocumentation_0100655.pdf
+Hash: 68592bc
+
+Folder: C:/Users/sipos/TTTECH COMPUTERTECHNIK AG/TTTECH-2460-TTE-XMC-Pro - Documents/20_TestBench/Documents\MiscDocLib\Manuals\Chamber
+File: CTS_Temperature_Test_Chambers_eng.pdf
+Hash: 363968c
+
+Folder: C:/Users/sipos/TTTECH COMPUTERTECHNIK AG/TTTECH-2460-TTE-XMC-Pro - Documents/20_TestBench/Documents\MiscDocLib\Manuals\DELL
+File: Dell Precision 7920 Rack Owners Manual.pdf
+Hash: 86fc7ca
+
+Folder: C:/Users/sipos/TTTECH COMPUTERTECHNIK AG/TTTECH-2460-TTE-XMC-Pro - Documents/20_TestBench/Documents\MiscDocLib\Manuals\Frequency Counter
+File: Frequency Counter - TTI Counter TF930.pdf
+Hash: 84e7a6a
+
+Folder: C:/Users/sipos/TTTECH COMPUTERTECHNIK AG/TTTECH-2460-TTE-XMC-Pro - Documents/20_TestBench/Documents\MiscDocLib\Manuals\Frequency Counter
+File: TF930_Freq_Counter_Manual.pdf
+Hash: 84e7a6a
+
+Folder: C:/Users/sipos/TTTECH COMPUTERTECHNIK AG/TTTECH-2460-TTE-XMC-Pro - Documents/20_TestBench/Documents\MiscDocLib\Manuals\IXIA
+File: Copper-Taps.pdf
+Hash: 7530419
+
+Folder: C:/Users/sipos/TTTECH COMPUTERTECHNIK AG/TTTECH-2460-TTE-XMC-Pro - Documents/20_TestBench/Documents\MiscDocLib\Manuals\IXIA
+File: c_taps_zd-copper_qig_0303.pdf
+Hash: fd85b87
+
+Folder: C:/Users/sipos/TTTECH COMPUTERTECHNIK AG/TTTECH-2460-TTE-XMC-Pro - Documents/20_TestBench/Documents\MiscDocLib\Manuals\KVM
+File: bedienungsanleitung-1881676-digitus-ds-72210-3ge-kvm-konsole-vga-1280-x-1024-pixel.pdf
+Hash: 606665e
+
+Folder: C:/Users/sipos/TTTECH COMPUTERTECHNIK AG/TTTECH-2460-TTE-XMC-Pro - Documents/20_TestBench/Documents\MiscDocLib\Manuals\MPLAB
+File: MPLAB_ICD3_UG_51766a.pdf
+Hash: 14597b4
+
+Folder: C:/Users/sipos/TTTECH COMPUTERTECHNIK AG/TTTECH-2460-TTE-XMC-Pro - Documents/20_TestBench/Documents\MiscDocLib\Manuals\NI PXIe\NI PXIe-4112 Power Supply
+File: NI-PXIe-4112-4113-Getting-Started-Guide.pdf
+Hash: e1c9b41
+
+Folder: C:/Users/sipos/TTTECH COMPUTERTECHNIK AG/TTTECH-2460-TTE-XMC-Pro - Documents/20_TestBench/Documents\MiscDocLib\Manuals\NI PXIe\NI PXIe-4112 Power Supply
+File: pxie-41124113_features_11-23-2023.pdf
+Hash: 7921424
+
+Folder: C:/Users/sipos/TTTECH COMPUTERTECHNIK AG/TTTECH-2460-TTE-XMC-Pro - Documents/20_TestBench/Documents\MiscDocLib\Manuals\NI PXIe\NI PXIe-4112 Power Supply
+File: pxie-4113_specifications_11-23-2023.pdf
+Hash: aea84f6
+
+Folder: C:/Users/sipos/TTTECH COMPUTERTECHNIK AG/TTTECH-2460-TTE-XMC-Pro - Documents/20_TestBench/Documents\MiscDocLib\Manuals\NI PXIe\NI PXIe-4112 Power Supply
+File: pxie-4113_user_manual_1-11-2024.pdf
+Hash: 612f660
+
+Folder: C:/Users/sipos/TTTECH COMPUTERTECHNIK AG/TTTECH-2460-TTE-XMC-Pro - Documents/20_TestBench/Documents\MiscDocLib\Manuals\NI PXIe\NI PXIe-6363 DAQ
+File: NI-daqmx_8-24-2023.pdf
+Hash: 6c97e63
+
+Folder: C:/Users/sipos/TTTECH COMPUTERTECHNIK AG/TTTECH-2460-TTE-XMC-Pro - Documents/20_TestBench/Documents\MiscDocLib\Manuals\NI PXIe\NI PXIe-6363 DAQ
+File: ni-PXIe_6363_Pinout.pdf
+Hash: 521dd5b
+
+Folder: C:/Users/sipos/TTTECH COMPUTERTECHNIK AG/TTTECH-2460-TTE-XMC-Pro - Documents/20_TestBench/Documents\MiscDocLib\Manuals\NI PXIe\NI PXIe-6363 DAQ
+File: NI_6353_63_pinout.gif
+Hash: 1037875
+
+Folder: C:/Users/sipos/TTTECH COMPUTERTECHNIK AG/TTTECH-2460-TTE-XMC-Pro - Documents/20_TestBench/Documents\MiscDocLib\Manuals\NI PXIe\NI PXIe-6363 DAQ
+File: NI_DAQ_X_Series.pdf
+Hash: 328f61c
+
+Folder: C:/Users/sipos/TTTECH COMPUTERTECHNIK AG/TTTECH-2460-TTE-XMC-Pro - Documents/20_TestBench/Documents\MiscDocLib\Manuals\NI PXIe\NI PXIe-6363 DAQ
+File: pxie-6363_specifications_11-28-2023.pdf
+Hash: 5954b71
+
+Folder: C:/Users/sipos/TTTECH COMPUTERTECHNIK AG/TTTECH-2460-TTE-XMC-Pro - Documents/20_TestBench/Documents\MiscDocLib\Manuals\NI PXIe\NI PXIe-6738 DAQ
+File: NI_6738_6739_User_Manual.pdf
+Hash: 72f83df
+
+Folder: C:/Users/sipos/TTTECH COMPUTERTECHNIK AG/TTTECH-2460-TTE-XMC-Pro - Documents/20_TestBench/Documents\MiscDocLib\Manuals\NI PXIe\NI PXIe-6738 DAQ
+File: NI_6738_pinout.gif
+Hash: 8145f46
+
+Folder: C:/Users/sipos/TTTECH COMPUTERTECHNIK AG/TTTECH-2460-TTE-XMC-Pro - Documents/20_TestBench/Documents\MiscDocLib\Manuals\NI PXIe\NI PXIe-6738 DAQ
+File: NI_6739_pinout.gif
+Hash: cffa523
+
+Folder: C:/Users/sipos/TTTECH COMPUTERTECHNIK AG/TTTECH-2460-TTE-XMC-Pro - Documents/20_TestBench/Documents\MiscDocLib\Manuals\NI PXIe\NI PXIe-6738 DAQ
+File: pxie-6738_specifications_11-28-2023.pdf
+Hash: 5e2ea55
+
+Folder: C:/Users/sipos/TTTECH COMPUTERTECHNIK AG/TTTECH-2460-TTE-XMC-Pro - Documents/20_TestBench/Documents\MiscDocLib\Manuals\NI PXIe\NI PXIe-8840 Embedded Controller
+File: NI PXIe-8840 User Manual.pdf
+Hash: d1ac3fc
+
+Folder: C:/Users/sipos/TTTECH COMPUTERTECHNIK AG/TTTECH-2460-TTE-XMC-Pro - Documents/20_TestBench/Documents\MiscDocLib\Manuals\Pico
+File: Pico Technology USB TC-08 User Guide.pdf
+Hash: 1258f1b
+
+Folder: C:/Users/sipos/TTTECH COMPUTERTECHNIK AG/TTTECH-2460-TTE-XMC-Pro - Documents/20_TestBench/Documents\MiscDocLib\Manuals\Saleae
+File: Logic+Guide.pdf
+Hash: f08fe8d
+
+Folder: C:/Users/sipos/TTTECH COMPUTERTECHNIK AG/TTTECH-2460-TTE-XMC-Pro - Documents/20_TestBench/Documents\MiscDocLib\Manuals\Saleae
+File: Saleae Logic Pro 16 Data Sheet.pdf
+Hash: db20f15
+
+Folder: C:/Users/sipos/TTTECH COMPUTERTECHNIK AG/TTTECH-2460-TTE-XMC-Pro - Documents/20_TestBench/Documents\MiscDocLib\Manuals\Saleae
+File: Saleae+Users+Guide.pdf
+Hash: fb1633f
+
+Folder: C:/Users/sipos/TTTECH COMPUTERTECHNIK AG/TTTECH-2460-TTE-XMC-Pro - Documents/20_TestBench/Documents\MiscDocLib\Manuals\Serial NOR Flash Memory
+File: mt25q_qljs_u_256_aba_0.pdf
+Hash: 8252965
+
+Folder: C:/Users/sipos/TTTECH COMPUTERTECHNIK AG/TTTECH-2460-TTE-XMC-Pro - Documents/20_TestBench/Documents\MiscDocLib\Manuals\Signal Generator
+File: 81150A and 81160A Pulse Function Arbitrary Noise Generators.pdf
+Hash: 68b713c
+
+Folder: C:/Users/sipos/TTTECH COMPUTERTECHNIK AG/TTTECH-2460-TTE-XMC-Pro - Documents/20_TestBench/Documents\MiscDocLib\Manuals\Signal Generator
+File: Keysight 81150A Getting Started Guide.pdf
+Hash: 9207206
+
+Folder: C:/Users/sipos/TTTECH COMPUTERTECHNIK AG/TTTECH-2460-TTE-XMC-Pro - Documents/20_TestBench/Documents\MiscDocLib\Manuals\Signal Generator
+File: Keysight 81150A Users Guide.pdf
+Hash: 05bc493
+
+Folder: C:/Users/sipos/TTTECH COMPUTERTECHNIK AG/TTTECH-2460-TTE-XMC-Pro - Documents/20_TestBench/Documents\MiscDocLib\Manuals\Web Relay
+File: W8CR_WEB_EIGHT_CHANNEL_RELAY.pdf
+Hash: 448da1c
+
+Folder: C:/Users/sipos/TTTECH COMPUTERTECHNIK AG/TTTECH-2460-TTE-XMC-Pro - Documents/20_TestBench/Documents\MiscDocLib\Manuals\Xilinx
+File: Xilinx Platform Cable USB II.pdf
+Hash: ec1f715
+
+Folder: C:/Users/sipos/TTTECH COMPUTERTECHNIK AG/TTTECH-2460-TTE-XMC-Pro - Documents/20_TestBench/Documents\MiscDocLib\Power Modification Configuration
+File: 0V85_Calculation.pdf
+Hash: d505d95
+
+Folder: C:/Users/sipos/TTTECH COMPUTERTECHNIK AG/TTTECH-2460-TTE-XMC-Pro - Documents/20_TestBench/Documents\MiscDocLib\Power Modification Configuration
+File: 0V85_Voltage-Modification-Calculation.sm
+Hash: 326ead6
+
+Folder: C:/Users/sipos/TTTECH COMPUTERTECHNIK AG/TTTECH-2460-TTE-XMC-Pro - Documents/20_TestBench/Documents\MiscDocLib\Power Modification Configuration
+File: 0V9_Calculation.pdf
+Hash: 59cc230
+
+Folder: C:/Users/sipos/TTTECH COMPUTERTECHNIK AG/TTTECH-2460-TTE-XMC-Pro - Documents/20_TestBench/Documents\MiscDocLib\Power Modification Configuration
+File: 0V9_Voltage-Modification-Calculation.sm
+Hash: 073bc32
+
+Folder: C:/Users/sipos/TTTECH COMPUTERTECHNIK AG/TTTECH-2460-TTE-XMC-Pro - Documents/20_TestBench/Documents\MiscDocLib\Power Modification Configuration
+File: 1V2_Calculation.pdf
+Hash: 11a927c
+
+Folder: C:/Users/sipos/TTTECH COMPUTERTECHNIK AG/TTTECH-2460-TTE-XMC-Pro - Documents/20_TestBench/Documents\MiscDocLib\Power Modification Configuration
+File: 1V2_Voltage-Modification-Calculation.sm
+Hash: 02473c4
+
+Folder: C:/Users/sipos/TTTECH COMPUTERTECHNIK AG/TTTECH-2460-TTE-XMC-Pro - Documents/20_TestBench/Documents\MiscDocLib\Power Modification Configuration
+File: 1V8_Calculation.pdf
+Hash: 61bf68c
+
+Folder: C:/Users/sipos/TTTECH COMPUTERTECHNIK AG/TTTECH-2460-TTE-XMC-Pro - Documents/20_TestBench/Documents\MiscDocLib\Power Modification Configuration
+File: 1V8_Voltage-Modification-Calculation.sm
+Hash: cf8a9b7
+
+Folder: C:/Users/sipos/TTTECH COMPUTERTECHNIK AG/TTTECH-2460-TTE-XMC-Pro - Documents/20_TestBench/Documents\MiscDocLib\Power Modification Configuration
+File: 3V3_Calculation.pdf
+Hash: 7055004
+
+Folder: C:/Users/sipos/TTTECH COMPUTERTECHNIK AG/TTTECH-2460-TTE-XMC-Pro - Documents/20_TestBench/Documents\MiscDocLib\Power Modification Configuration
+File: 3V3_Voltage-Modification-Calculation.sm
+Hash: 25ff6bc
+
+Folder: C:/Users/sipos/TTTECH COMPUTERTECHNIK AG/TTTECH-2460-TTE-XMC-Pro - Documents/20_TestBench/Documents\MiscDocLib\Power Modification Configuration
+File: Injection-R_Instruction_D-TTE-ES-XMC-I-02-010_V1.01.00.pdf
+Hash: c9a4670
+
+Folder: C:/Users/sipos/TTTECH COMPUTERTECHNIK AG/TTTECH-2460-TTE-XMC-Pro - Documents/20_TestBench/Documents\MiscDocLib\Power Modification Configuration
+File: Power_Modification_Configuration_Calculation_000002_000004_D-TTE-ES-XMC-TR-05-006_V0.01.docx
+Hash: 88882d6
+
+Folder: C:/Users/sipos/TTTECH COMPUTERTECHNIK AG/TTTECH-2460-TTE-XMC-Pro - Documents/20_TestBench/Documents\MiscDocLib\Power Modification Configuration
+File: Power_Modification_Configuration_Calculation_000002_000004_D-TTE-ES-XMC-TR-05-006_V1.0.0.pdf
+Hash: fd4841c
+
+Folder: C:/Users/sipos/TTTECH COMPUTERTECHNIK AG/TTTECH-2460-TTE-XMC-Pro - Documents/20_TestBench/Documents\SyVERD
+File: 8153149 - 2023-02-15.docx
+Hash: 10282ff
+
+Folder: C:/Users/sipos/TTTECH COMPUTERTECHNIK AG/TTTECH-2460-TTE-XMC-Pro - Documents/20_TestBench/Documents\SyVERD
+File: 8153149 - 2023-02-15_Reponses_Martin_Eischer.docx
+Hash: 54a0c95
+
+Folder: C:/Users/sipos/TTTECH COMPUTERTECHNIK AG/TTTECH-2460-TTE-XMC-Pro - Documents/20_TestBench/Documents\SyVERD
+File: 8153149 - 2023-03-13.docx
+Hash: 74b48e4
+
+Folder: C:/Users/sipos/TTTECH COMPUTERTECHNIK AG/TTTECH-2460-TTE-XMC-Pro - Documents/20_TestBench/Documents\SyVERD
+File: D-TTE-ES-XMC-S-05-003.docx
+Hash: 95242f3
+
+Folder: C:/Users/sipos/TTTECH COMPUTERTECHNIK AG/TTTECH-2460-TTE-XMC-Pro - Documents/20_TestBench/Documents\SyVES
+File: SyVES_D-TTE-ES-XMC-V-05-004.docx
+Hash: e592060
+
+Folder: C:/Users/sipos/TTTECH COMPUTERTECHNIK AG/TTTECH-2460-TTE-XMC-Pro - Documents/20_TestBench/Documents\SyVES
+File: SyVES_D-TTE-ES-XMC-V-05-004_V1.0.0.docx
+Hash: 2913ff0
+
+Folder: C:/Users/sipos/TTTECH COMPUTERTECHNIK AG/TTTECH-2460-TTE-XMC-Pro - Documents/20_TestBench/Documents\SyVES
+File: SyVES_D-TTE-ES-XMC-V-05-004_V1.0.0.pdf
+Hash: cab5920
+
+Folder: C:/Users/sipos/TTTECH COMPUTERTECHNIK AG/TTTECH-2460-TTE-XMC-Pro - Documents/20_TestBench/Documents\SyVES
+File: SyVES_D-TTE-ES-XMC-V-05-004_V1.0.4.pdf
+Hash: 384efca
+
+Folder: C:/Users/sipos/TTTECH COMPUTERTECHNIK AG/TTTECH-2460-TTE-XMC-Pro - Documents/20_TestBench/Documents\SyVES\Archive
+File: SyVES_D-TTE-ES-XMC-V-05-004_V(for PDR).docx
+Hash: 68927fe
+
+Folder: C:/Users/sipos/TTTECH COMPUTERTECHNIK AG/TTTECH-2460-TTE-XMC-Pro - Documents/20_TestBench/Documents\SyVES\Archive
+File: SyVES_D-TTE-ES-XMC-V-05-004_V0.0.1.docx
+Hash: 355dc5b
+
+Folder: C:/Users/sipos/TTTECH COMPUTERTECHNIK AG/TTTECH-2460-TTE-XMC-Pro - Documents/20_TestBench/Documents\SyVES\Archive
+File: SyVES_D-TTE-ES-XMC-V-05-004_V0.0.2.docx
+Hash: 478c600
+
+Folder: C:/Users/sipos/TTTECH COMPUTERTECHNIK AG/TTTECH-2460-TTE-XMC-Pro - Documents/20_TestBench/Documents\SyVES\Archive
+File: SyVES_D-TTE-ES-XMC-V-05-004_V0.0.3(reviewing).docx
+Hash: 7550720
+
+Folder: C:/Users/sipos/TTTECH COMPUTERTECHNIK AG/TTTECH-2460-TTE-XMC-Pro - Documents/20_TestBench/Documents\SyVES\Archive
+File: SyVES_D-TTE-ES-XMC-V-05-004_V0.0.3.docx
+Hash: 9cf7d85
+
+Folder: C:/Users/sipos/TTTECH COMPUTERTECHNIK AG/TTTECH-2460-TTE-XMC-Pro - Documents/20_TestBench/Documents\SyVES\syves review comment screenshots
+File: 1.png
+Hash: 3272a89
+
+Folder: C:/Users/sipos/TTTECH COMPUTERTECHNIK AG/TTTECH-2460-TTE-XMC-Pro - Documents/20_TestBench/Documents\SyVES\syves review comment screenshots
+File: 10.png
+Hash: bcf5874
+
+Folder: C:/Users/sipos/TTTECH COMPUTERTECHNIK AG/TTTECH-2460-TTE-XMC-Pro - Documents/20_TestBench/Documents\SyVES\syves review comment screenshots
+File: 11.png
+Hash: d605e69
+
+Folder: C:/Users/sipos/TTTECH COMPUTERTECHNIK AG/TTTECH-2460-TTE-XMC-Pro - Documents/20_TestBench/Documents\SyVES\syves review comment screenshots
+File: 12.png
+Hash: e726e25
+
+Folder: C:/Users/sipos/TTTECH COMPUTERTECHNIK AG/TTTECH-2460-TTE-XMC-Pro - Documents/20_TestBench/Documents\SyVES\syves review comment screenshots
+File: 13.png
+Hash: c51d410
+
+Folder: C:/Users/sipos/TTTECH COMPUTERTECHNIK AG/TTTECH-2460-TTE-XMC-Pro - Documents/20_TestBench/Documents\SyVES\syves review comment screenshots
+File: 14.png
+Hash: 1bb98ae
+
+Folder: C:/Users/sipos/TTTECH COMPUTERTECHNIK AG/TTTECH-2460-TTE-XMC-Pro - Documents/20_TestBench/Documents\SyVES\syves review comment screenshots
+File: 15.png
+Hash: 4b1d963
+
+Folder: C:/Users/sipos/TTTECH COMPUTERTECHNIK AG/TTTECH-2460-TTE-XMC-Pro - Documents/20_TestBench/Documents\SyVES\syves review comment screenshots
+File: 16.png
+Hash: 9b66f91
+
+Folder: C:/Users/sipos/TTTECH COMPUTERTECHNIK AG/TTTECH-2460-TTE-XMC-Pro - Documents/20_TestBench/Documents\SyVES\syves review comment screenshots
+File: 17.png
+Hash: 0a3ea72
+
+Folder: C:/Users/sipos/TTTECH COMPUTERTECHNIK AG/TTTECH-2460-TTE-XMC-Pro - Documents/20_TestBench/Documents\SyVES\syves review comment screenshots
+File: 18.png
+Hash: 9e46f2c
+
+Folder: C:/Users/sipos/TTTECH COMPUTERTECHNIK AG/TTTECH-2460-TTE-XMC-Pro - Documents/20_TestBench/Documents\SyVES\syves review comment screenshots
+File: 19.png
+Hash: a3098cc
+
+Folder: C:/Users/sipos/TTTECH COMPUTERTECHNIK AG/TTTECH-2460-TTE-XMC-Pro - Documents/20_TestBench/Documents\SyVES\syves review comment screenshots
+File: 2.png
+Hash: 2d88381
+
+Folder: C:/Users/sipos/TTTECH COMPUTERTECHNIK AG/TTTECH-2460-TTE-XMC-Pro - Documents/20_TestBench/Documents\SyVES\syves review comment screenshots
+File: 3.png
+Hash: be40d66
+
+Folder: C:/Users/sipos/TTTECH COMPUTERTECHNIK AG/TTTECH-2460-TTE-XMC-Pro - Documents/20_TestBench/Documents\SyVES\syves review comment screenshots
+File: 4.png
+Hash: 98c1e04
+
+Folder: C:/Users/sipos/TTTECH COMPUTERTECHNIK AG/TTTECH-2460-TTE-XMC-Pro - Documents/20_TestBench/Documents\SyVES\syves review comment screenshots
+File: 5.png
+Hash: 3076c96
+
+Folder: C:/Users/sipos/TTTECH COMPUTERTECHNIK AG/TTTECH-2460-TTE-XMC-Pro - Documents/20_TestBench/Documents\SyVES\syves review comment screenshots
+File: 6.png
+Hash: 7f37a50
+
+Folder: C:/Users/sipos/TTTECH COMPUTERTECHNIK AG/TTTECH-2460-TTE-XMC-Pro - Documents/20_TestBench/Documents\SyVES\syves review comment screenshots
+File: 7.png
+Hash: 6b0b182
+
+Folder: C:/Users/sipos/TTTECH COMPUTERTECHNIK AG/TTTECH-2460-TTE-XMC-Pro - Documents/20_TestBench/Documents\SyVES\syves review comment screenshots
+File: 8.png
+Hash: 4b9d60c
+
+Folder: C:/Users/sipos/TTTECH COMPUTERTECHNIK AG/TTTECH-2460-TTE-XMC-Pro - Documents/20_TestBench/Documents\SyVES\syves review comment screenshots
+File: 9.png
+Hash: f9f2a36
+
+Folder: C:/Users/sipos/TTTECH COMPUTERTECHNIK AG/TTTECH-2460-TTE-XMC-Pro - Documents/20_TestBench/Documents\SyVEVP
+File: XMC_SyVEVP_D-TTE-ES-XMC-V-05-012 2023-09-08.docx
+Hash: 5df8896
+
+Folder: C:/Users/sipos/TTTECH COMPUTERTECHNIK AG/TTTECH-2460-TTE-XMC-Pro - Documents/20_TestBench/Documents\SyVEVP
+File: XMC_SyVEVP_D-TTE-ES-XMC-V-05-012 2023-09-08.pdf
+Hash: 6c95675
+
