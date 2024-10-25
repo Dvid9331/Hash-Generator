@@ -5,11 +5,14 @@ import hashlib
 import tkinter as tk
 from tkinter import filedialog, messagebox, ttk
 
-def generate_hash(path_to_file):
+def generate_hash(path_to_file, hash_length=7):
     try:
         # Create a temporary copy of the file
         temp_dir = tempfile.mkdtemp()
-        temp_file_path = os.path.join(temp_dir, os.path.basename(path_to_file))
+        temp_file_path = os.path.join(
+            temp_dir, 
+            os.path.basename(path_to_file)
+        )
         shutil.copy2(path_to_file, temp_file_path)
 
         # Initialize the hash object
@@ -25,9 +28,12 @@ def generate_hash(path_to_file):
         os.rmdir(temp_dir)
 
         # Return the shortened hexadecimal representation of the hash
-        return hash_obj.hexdigest()[:7]  # Shorten the hash to 7 characters
+        return hash_obj.hexdigest()[:hash_length]  # Shorten the hash to the specified length
     except PermissionError:
-        messagebox.showerror("Permission Error", f"Permission denied: '{path_to_file}'")
+        messagebox.showerror(
+            "Permission Error", 
+            f"Permission denied: '{path_to_file}'"
+        )
         return None
 
 def traverse_folder(folder_path):
@@ -35,34 +41,54 @@ def traverse_folder(folder_path):
     for root, _, files in os.walk(folder_path):
         for file in files:
             file_path = os.path.join(root, file)
-            hash_value = generate_hash(file_path)
+            hash_value = generate_hash(file_path, hash_length.get())
             if hash_value:
                 file_hashes.append((root, file, hash_value))
     return file_hashes
 
-def select_folder_and_check_hash():
-    global file_hashes
-    folder_path = filedialog.askdirectory(initialdir=os.path.dirname(os.path.abspath(__file__)))
-    if folder_path:
-        file_hashes = traverse_folder(folder_path)
-        display_hashes(file_hashes)
-        expand_list()
-        if autosave_var.get():
-            save_report(file_hashes)
-        else:
-            save_as_button.config(state=tk.NORMAL)
+def select_folder():
+    global selected_folder
+    selected_folder = filedialog.askdirectory(
+        initialdir=os.path.expanduser("~")
+    )
+    folder_label.config(
+        text=f"Selected Folder: {selected_folder}" if selected_folder else "Selected Folder: None"
+    )
+    if selected_folder:
+        check_hash_button.config(state=tk.NORMAL)
 
-def select_file_and_check_hash():
+def select_file():
+    global selected_file
+    selected_file = filedialog.askopenfilename(
+        initialdir=os.path.expanduser("~")
+    )
+    file_label.config(
+        text=f"Selected File: {selected_file}" if selected_file else "Selected File: None"
+    )
+    if selected_file:
+        check_hash_button.config(state=tk.NORMAL)
+
+def check_hash():
     global file_hashes
-    file_path = filedialog.askopenfilename(initialdir=os.path.dirname(os.path.abspath(__file__)))
-    if file_path:
-        file_hashes = [(os.path.dirname(file_path), os.path.basename(file_path), generate_hash(file_path))]
-        display_hashes(file_hashes)
-        expand_list()
-        if autosave_var.get():
-            save_report(file_hashes)
-        else:
-            save_as_button.config(state=tk.NORMAL)
+    if selected_folder:
+        file_hashes = traverse_folder(selected_folder)
+    elif selected_file:
+        file_hashes = [
+            (
+                os.path.dirname(selected_file), 
+                os.path.basename(selected_file), 
+                generate_hash(selected_file, hash_length.get())
+            )
+        ]
+    else:
+        messagebox.showerror("Error", "No folder or file selected")
+        return
+
+    display_hashes(file_hashes)
+    if autosave_var.get():
+        save_report(file_hashes)
+    else:
+        save_as_button.config(state=tk.NORMAL)
 
 def display_hashes(file_hashes):
     for item in tree.get_children():
@@ -79,14 +105,22 @@ def display_hashes(file_hashes):
                 parent = part
             if parent not in folder_dict:
                 parent_id = folder_dict.get(os.path.dirname(parent), '')
-                folder_dict[parent] = tree.insert(parent_id, 'end', text=part, open=True, tags=('bold',))
-        tree.insert(folder_dict[root], 'end', text='', values=(file, hash_value))
-
-def expand_list():
-    root.geometry("800x600")
+                folder_dict[parent] = tree.insert(
+                    parent_id, 
+                    'end', 
+                    text=part, 
+                    open=True, 
+                    tags=('bold',)
+                )
+        tree.insert(
+            folder_dict[root], 
+            'end', 
+            text='', 
+            values=(file, hash_value)
+        )
 
 def save_report(file_hashes, report_path=None):
-    if report_path is None:
+    if not report_path:
         report_path = os.path.join(os.getcwd(), "hash_report.txt")
     with open(report_path, 'w') as report_file:
         for root, file, hash_value in file_hashes:
@@ -97,7 +131,11 @@ def save_report(file_hashes, report_path=None):
     messagebox.showinfo("Report Saved", f"Report saved to {report_path}")
 
 def save_as():
-    report_path = filedialog.asksaveasfilename(defaultextension=".txt", filetypes=[("Text files", "*.txt"), ("All files", "*.*")])
+    report_path = filedialog.asksaveasfilename(
+        initialdir="C://", 
+        defaultextension=".txt", 
+        filetypes=[("Text files", "*.txt"), ("All files", "*.*")]
+    )
     if report_path:
         save_report(file_hashes, report_path)
 
@@ -110,52 +148,165 @@ def toggle_save_as_button():
 # Set up the main application window
 root = tk.Tk()
 root.title("Document Hash Check")
-root.geometry("800x200")  # Set the initial window size to be small
+root.geometry("552x455")  # Set the initial window size
 
-# Create a frame for the buttons and checkbox
-button_frame = tk.Frame(root)
-button_frame.pack(pady=10)
+# Create buttons to select the folder and file
+select_folder_button = tk.Button(
+    root, 
+    text="Select Folder", 
+    command=select_folder
+)
+select_folder_button.place(
+    x=10, 
+    y=10, 
+    width=91, 
+    height=24
+)
 
-# Create buttons to select the folder, select the file, and check the hashes
-select_folder_button = tk.Button(button_frame, text="Select Folder and Check Hash", command=select_folder_and_check_hash)
-select_folder_button.pack(side=tk.LEFT, padx=10)
+select_file_button = tk.Button(
+    root, 
+    text="Select File", 
+    command=select_file
+)
+select_file_button.place(
+    x=10, 
+    y=40, 
+    width=91, 
+    height=24
+)
 
-select_file_button = tk.Button(button_frame, text="Select File and Check Hash", command=select_file_and_check_hash)
-select_file_button.pack(side=tk.LEFT, padx=10)
-
-# Add a spacer
-spacer = tk.Label(button_frame, text=" " * 10)
-spacer.pack(side=tk.LEFT)
+# Create a "Check Hash" button
+check_hash_button = tk.Button(
+    root, 
+    text="Check Hash", 
+    command=check_hash, 
+    state=tk.DISABLED
+)
+check_hash_button.place(
+    x=420, 
+    y=10, 
+    width=101, 
+    height=61
+)
 
 # Create a checkbox for autosave report
 autosave_var = tk.BooleanVar()
-autosave_checkbox = ttk.Checkbutton(button_frame, text="Autosave report", variable=autosave_var, command=toggle_save_as_button)
-autosave_checkbox.pack(side=tk.LEFT, padx=10)
+autosave_checkbox = ttk.Checkbutton(
+    root, 
+    text="Autosave report", 
+    variable=autosave_var, 
+    command=toggle_save_as_button
+)
+autosave_checkbox.place(
+    x=120, 
+    y=90, 
+    width=111, 
+    height=20
+)
 
 # Create a "Save as..." button
-save_as_button = ttk.Button(button_frame, text="Save as...", command=save_as, state=tk.DISABLED)
-save_as_button.pack(side=tk.LEFT, padx=10)
+save_as_button = ttk.Button(
+    root, 
+    text="Save as...", 
+    command=save_as, 
+    state=tk.DISABLED
+)
+save_as_button.place(
+    x=430, 
+    y=90, 
+    width=81, 
+    height=24
+)
 
-# Create a frame for the Treeview and scrollbar
-frame = tk.Frame(root)
-frame.pack(fill=tk.BOTH, expand=True)
+# Add a dropdown list to select the hash length
+hash_length_label = tk.Label(
+    root, 
+    text="Hash Length", 
+    anchor="w"
+)
+hash_length_label.place(
+    x=10, 
+    y=70, 
+    width=81, 
+    height=21
+)
+
+hash_length = tk.IntVar(value=7)
+hash_length_dropdown = ttk.Combobox(
+    root, 
+    textvariable=hash_length, 
+    values=[7, 8, 9, 10, 11, 12, 13, 14, 15]
+)
+hash_length_dropdown.place(
+    x=10, 
+    y=90, 
+    width=91, 
+    height=22
+)
+
+# Add labels to display the selected folder and file
+folder_label = tk.Label(
+    root, 
+    text="Selected Folder: None", 
+    anchor="w", 
+    relief=tk.SUNKEN
+)
+folder_label.place(
+    x=120, 
+    y=10, 
+    width=281, 
+    height=21
+)
+
+file_label = tk.Label(
+    root, 
+    text="Selected File: None", 
+    anchor="w", 
+    relief=tk.SUNKEN
+)
+file_label.place(
+    x=120, 
+    y=40, 
+    width=281, 
+    height=21
+)
 
 # Create a Treeview widget to display the folder structure and hash values
-tree = ttk.Treeview(frame, columns=("Name", "Hash"), show="tree headings")
+tree = ttk.Treeview(
+    root, 
+    columns=("Name", "Hash"), 
+    show="tree headings"
+)
 tree.heading("#0", text="Folder Structure")
 tree.heading("Name", text="File Name")
 tree.heading("Hash", text="Hash Value")
 tree.column("#0", stretch=tk.YES)
 tree.column("Name", stretch=tk.YES)
 tree.column("Hash", width=100, anchor='center')  # Set the hash column width and center align
-tree.pack(side=tk.LEFT, fill=tk.BOTH, expand=True)
+tree.place(
+    x=20, 
+    y=120, 
+    width=511, 
+    height=291
+)
 
 # Define a custom tag for bold text
-tree.tag_configure('bold', font=('TkDefaultFont', 10, 'bold'))
+tree.tag_configure(
+    'bold', 
+    font=('TkDefaultFont', 10, 'bold')
+)
 
 # Create a vertical scrollbar for the Treeview
-vsb = ttk.Scrollbar(frame, orient="vertical", command=tree.yview)
-vsb.pack(side=tk.RIGHT, fill=tk.Y)
+vsb = ttk.Scrollbar(
+    root, 
+    orient="vertical", 
+    command=tree.yview
+)
+vsb.place(
+    x=531, 
+    y=120, 
+    height=291
+)
 tree.configure(yscrollcommand=vsb.set)
 
 # Initialize the file_hashes variable
