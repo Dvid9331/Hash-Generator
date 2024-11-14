@@ -45,4 +45,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Contact
 For any questions or feedback, please contact:
 - Email: [s.dvid@hotmail.com](mailto:s.dvid@hotmail.com)
-- GitHub: [Dvid9331](https://github.com/Dvid9331)
+- GitHub: [DvidMakesThings](https://github.com/DvidMakesThings)
